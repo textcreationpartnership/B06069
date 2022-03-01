@@ -1,0 +1,984 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinburgh, the eighth day of November, 1655. Whereas his Highnesse council in Scotland by their ordinance of the 31 of October last, have ordained, that the prices for every common-bill shall be sixpence sterling ...</title>
+            <author>Scotland. Commissioners for Administration of Justice in Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06069</idno>
+            <idno type="STC">Wing S996</idno>
+            <idno type="STC">ESTC R183806</idno>
+            <idno type="EEBO-CITATION">52529177</idno>
+            <idno type="OCLC">ocm 52529177</idno>
+            <idno type="VID">178868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178868)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinburgh, the eighth day of November, 1655. Whereas his Highnesse council in Scotland by their ordinance of the 31 of October last, have ordained, that the prices for every common-bill shall be sixpence sterling ...</title>
+                  <author>Scotland. Commissioners for Administration of Justice in Scotland.</author>
+                  <author>Smith, George, 1602 or 3-1658.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Christopher Higgins, in Harts-Close, over against the Trone-Church,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Initial letter.</note>
+                  <note>Most of text in double columns.</note>
+                  <note>Order to print signed: Geo. Smyth, President.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Costs (Law) --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178868:1"/>
+            <opener>
+               <dateline>EDINBURGH, <date>The Eighth day of <hi>November, 1655.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas his Highneſſe Council in SCOTLAND by their Ordinance of the 31. of October laſt, have Or<g ref="char:EOLhyphen"/>dained, That the Prices for every Common-Bill ſhall be Sixpence ſterling. The Prices of every Bill of Suſ<g ref="char:EOLhyphen"/>penſion, Two ſhillings ſterling. And all other Prices belonging to Clerks, Regiſters, Keepers of Seals, or payable for Seals, ſhall be according to the Statutes of this Nation, and no more. Therefore the Com<g ref="char:EOLhyphen"/>miſſioners for Adminiſtration of Juſtice to the People in SCOTLAND, to the end the People may know certainly what to pay to HENRY HOPE, who is appointed Receiver of theſe Prices, excepting the Prices due for the Privy Seal, which are ordained to be paid to the Keeper of that Seal, Have thought fit to excerp from the Statutes, and Acts of Parliament of this Nation, the Prices underwritten, due thereby to the Director of the Chancery, Clerks of the Seſſion, Clerk of the Bills, and for the Signet Privy and Great Seals; And alſo the Prices due to the Clerk of the Regiſter of Hornings and Inhibitions; And to the Clerk of the Regiſter of Seaſings, in manner following.</p>
+            <p>
+               <table>
+                  <head>Prices to the Director of the <hi>CHANCERY.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>L.</hi>
+                     </cell>
+                     <cell>
+                        <hi>S.</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOr Legitimations</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Remiſſions to a Yeoman</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Perſon more than one contained therein</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion to a Baron</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Perſon of that rank more than one contained therein</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion to a Lord</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Perſon of that rank, more than one contained therein</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Writing and Regiſtring of a Conformation or Infeftment of a Five pound Land, or under, with the Precept of Seaſing duely and orderly paſt</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Writing and Regiſtring of a Confirmation or Infeftment of a Ten pound Land, or under, with the Precept of Seaſing duely and orderly paſt</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Writing and Regiſtring of a Confirmation or Infeftment of all other Lands under a Barony, or Thirty Pound Land, with the precept of Seaſing duely and orderly paſt</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Writing and Regiſtring of an Infeftment of a Barony, with the precept of Seaſing duely and orderly paſt</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Barony more than one, contained therein</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>Provided, That the whole Payment exceed not</cell>
+                     <cell>20.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Writing and Regiſtring of an Infefment of a Lordſhip or Earldom, with the precept of Seaſing duely and orderly paſt</cell>
+                     <cell>20.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Barony more than one contained therein</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>Provided, That the whole Payment exceed not</cell>
+                     <cell>50.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Commiſſions orderly paſt the quarter Seal, for ſerving of Brieves in favors of a Yeoman</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Commiſſions Sealed, in favors of a Baron</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Commiſſions Sealed, in favors of a Lord</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Tutory Datives, duely and orderly Sealed</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the whole Perſons contained in the Tutory.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Preſentations upon Forfeiture or Baſtardry of ſmall Annual<g ref="char:EOLhyphen"/>rents, or Lands within Burgh, and of ſmall peeces of Lands, for the Writing and Quarter-Seal</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And of other Lands of greater availe</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Breive</cell>
+                     <cell>00.</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For an Aturney</cell>
+                     <cell>00.</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Regiſtrating a Retour to a Common-man</cell>
+                     <cell>00.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>To a Baron</cell>
+                     <cell>01.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>To a Lord</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Precepts upon the Retour for Lands, under a Ten pound Land</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And if the Lands be above a Ten pound Land, to pay ac<g ref="char:EOLhyphen"/>cordingly</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Provided, That the higheſt price exceed not</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the ſecond and third Precepts</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the fourth Precept conform to the firſt</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Prices for the Clerks of the <hi>SESSION.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>L.</hi>
+                     </cell>
+                     <cell>
+                        <hi>S.</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOr Regiſtrating of an Obligation</cell>
+                     <cell>00.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Extract thereof</cell>
+                     <cell>00.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>An Act of Litiſconteſtation in Summar and Common Cauſes, for every ſheet of the Act, and of the Decreet</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And whereas by the Act of Parliament, 1621. The Prices of Acts of Litiſconteſtation in matters of contentious diſpute, heard in preſence of the Lords, are appointed to be at the diſcretion of the Party. It is Ordered, that the payment for ſuch Acts of Litiſconteſtation, be as for other Acts of Litiſconteſtation.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Common and ordinary Extracts, for every ſheet extracted</cell>
+                     <cell>00.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>The Regiſtration to pay as much.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Prices to the Clerk of the <hi>BILLS.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>L.</hi>
+                     </cell>
+                     <cell>
+                        <hi>S.</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOr Acts of Caution with the Relief</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Commiſſions</cell>
+                     <cell>00.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>For Diſpenſations in favors of a Party</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>And for a Sheriffedom or Burgh</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>Acts of Lawborrows, for every perſon contained in the Act</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>For Advocations</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Relaxations <hi>per ſe</hi>
+                     </cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every perſon contained therein accordingly.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Prices for Co<g ref="char:cmbAbbrStroke">̄</g>mon Bills, &amp; Bills of Suſpenſion are ſet down in the Preamble to the Prices, <hi>viz.</hi> for every Common Bill,</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Bill of Suſpenſion</cell>
+                     <cell>01.</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item</hi> according to the Act of Parliament, 1641. for recording and allowing of Compriſings</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for the Extract thereof</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:178868:2"/>
+            <p>
+               <table>
+                  <head>Pryces for the <hi>SIGNET.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>L.</hi>
+                     </cell>
+                     <cell>
+                        <hi>S.</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOr Summons of whatſoever quality.</cell>
+                     <cell>00.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Letters of Inhibition and Arreſtment</cell>
+                     <cell>00.</cell>
+                     <cell>16.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>For Letters of Lawborrows, and Criminal Letters, how many Perſons ſoever be inſert</cell>
+                     <cell>00.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Miniſters Letters</cell>
+                     <cell>00.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For all Letters of Horning of whatſoever quality, except Let<g ref="char:EOLhyphen"/>ters of Lawborrows and Criminal Letters</cell>
+                     <cell>01.</cell>
+                     <cell>11.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Relaxation</cell>
+                     <cell>00.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And accordingly for every Perſon Relaxed.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For a Legitimation</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For an Infeftment or Confirmation of a Five pound Land, or under</cell>
+                     <cell>01.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For an Infeftment or Confirmation of a Ten pound Land or under</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For an Infeftment or Confirmation of other Lands, under a Thirty pound Land, or Barony</cell>
+                     <cell>02.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For an Infeftment of Barony</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And of ſo many moe different Baronies as are contained in the Signature</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For an Infeftment of an Earldom and Lordſhip of dignity</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Barony beſide, contained in the Signature</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Compriſings</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion to a Common-man</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And accordingly for every perſon contained in the ſame Re<g ref="char:EOLhyphen"/>miſſion, and for every Crime</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion to a Baron</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And accordingly for every perſon of that rank, and for every Crime contained in the Signature.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion to a Lord</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>Crime contained in the Signature.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Taxt-Ward being inſert, to pay likewiſe the half price that the Lands or Barony payeth at the Signet.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Prices for the <hi>PRIVY-SEAL.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>L.</hi>
+                     </cell>
+                     <cell>
+                        <hi>S.</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOr the Eſcheat of a Common-man</cell>
+                     <cell>01.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Perſon more contained in the Signature</cell>
+                     <cell>00.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>The Life-rent and Eſcheat to pay the double of this Sum.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For the Eſcheat of a Baron</cell>
+                     <cell>02.</cell>
+                     <cell>13.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Perſon more of that rank contained in the Signature</cell>
+                     <cell>01.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>The Eſcheat and Life-rent to pay the double of this Sum.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For the Eſcheat of a Lord</cell>
+                     <cell>08.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every perſon more of that rank contained in the Signature</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>Their Eſcheat and Life-rent to pay the double of this Sum.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For a Legitimation</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion or Reſpit to a Common-man</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And accordingly for every Perſon, and every Crime con<g ref="char:EOLhyphen"/>tained in the Signature.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For a Remiſſion or Reſpit to a Baron</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And accordingly for every Perſon more of that rank, and for every Crime contained in the Signature.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For a Reſpit or Remiſſion to a Lord</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And accordingly for every Perſon of that rank, and for every Crime contained in the Signature.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For the Infeftment or Confirmation of a Five pound Land, or under</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Infeftment or Confirmation of a Ten pound Land, or under</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Infeftment or Confirmation of all other Lands, under a Thirty pound Land or Barony</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Infeftment or Confirmation of a Barony</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Barony more contained in the Infeftment</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For an Infeftment or Confirmation of an Earldom, or Lord<g ref="char:EOLhyphen"/>ſhip of dignity</cell>
+                     <cell>12.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>And for every Barony beſide contained in the Infeftment</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Compriſing</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For a Taxt-Ward, the half price that a Land or Barony payeth at the Privy-Seal.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For the Ward, Non-entreſs, Relief, and Marriage of men under Barons</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Ward, Non-entreſs, Relief, and Marriage of a Baron</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Ward, Non-entreſs, Relief, and Marriage of a Lord</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Ward only of a mean man</cell>
+                     <cell>01.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Ward only of a Baron</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Ward only of a Lord</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Non-entreſs only of men under Barons</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Non-entreſs only of Barons</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Non-entreſs only of Earls and Lords</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Marriage only of men under Barons</cell>
+                     <cell>01.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Marriage only of Barons</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Mariage only of Lords</cell>
+                     <cell>05.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Common Gifts of Prebendaries, Chaplinries, Penſions, or Offices</cell>
+                     <cell>01.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Prices of the <hi>GREAT-SEAL.</hi>
+            </p>
+            <p>THat the Prices of the Great-Seal, exceed not the quadruple of the Privy-Seal; And <hi>Henry Hope</hi> the Receiver, is to conform himſelf thereto in all points.</p>
+            <p>
+               <table>
+                  <head>Prices for the Regiſter of <hi>HORNINGS.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell>FOr Regiſtring of Letters of Horning, for every ſheet thereof</cell>
+                     <cell>00.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>And how long ſoever the Horning be, not to exceed</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>For Inhibitions and Relaxations, how long ſoever they be</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Prices for the Regiſter of <hi>SEASINGS</hi> and <hi>REVERSIONS,</hi> &amp;c.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Scots</cell>
+                     <cell cols="2">Money.</cell>
+                  </row>
+                  <row>
+                     <cell>THat according to the Act of Parliament, 1617. There be payed for every Leaf of the Regiſter, containing no leſs than is in the ſaid Act of Parliament</cell>
+                     <cell>01.</cell>
+                     <cell>06.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>And ſo proportionably for every Page of the Leaf, and part of the Page.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>AND Ordain theſe Preſents to be Printed, and Copies thereof to be affixed in every Office, that all Perſons concerned may have inſpection of the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>GEO. SMYTH,</hi> Preſident.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts</hi>-Cloſe, over againſt the Trone-Church. 1655.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
